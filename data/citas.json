@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "nombrePaciente": "JOEL MILLER",
+            "fechaCita": "23/10/2023",
+            "horaCita": "19:00",
+            "tipoConsulta": "Odontolog\u00eda",
+            "motivo": "Revision brakets"
+        }
+    ]
+}
